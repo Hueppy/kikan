@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "kikan",
+    "kikan-demo",
+]
